@@ -1,49 +1,79 @@
-<h1 style="text-align: center;">Hi , I'm Sameer Hassan Shaik</h1>
-<h3 style="text-align: center;">A Passionate Frontend Developer from India</h3>
+## Hi there! 👋
 
-<div style="text-align: center;">
-  <img src="https://komarev.com/ghpvc/?username=sameershaik2004&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+I'm **Sameer Hassan Shaik**,  
+a passionate software developer from **Andhra Pradesh, India**. I specialize in building innovative full-stack applications and developing scalable web and mobile solutions. Let's connect and collaborate!
+
+## About Me
+
+I'm a software developer dedicated to open source projects. Based in **Andhra Pradesh**, I thrive in creating efficient code and designing user-friendly interfaces. My goal is to contribute to impactful software solutions that enhance user experience.
+
+## Skills & Technologies
+
+html, css, nodejs, react, git, github, docker, mysql, flutter, express, graphql, aws
+
+## Top Projects
+
+- [**Personal Portfolio**](https://github.com/sameershaik2004/personal-portfolio)  
+  A showcase of my work and projects.  
+  ⭐ 0 Stars | 🗂 0 Forks | 🌐 HTML
+
+- [**Dino Landing Page**](https://github.com/sameershaik2004/Dino-landing-page)  
+  A landing page inspired by the popular Dino game.  
+  ⭐ 0 Stars | 🗂 0 Forks | 💻 CSS
+
+- [**Hackathon Project**](https://github.com/sameershaik2004/hackathon)  
+  Collaborative project developed during a hackathon event.  
+  ⭐ 0 Stars | 🗂 0 Forks | 📚 TypeScript
+
+- [**Training Repository**](https://github.com/sameershaik2004/Training)  
+  A repository for training exercises and projects.  
+  ⭐ 0 Stars | 🗂 0 Forks | 📦
+
+- [**21JR1A05H7**](https://github.com/sameershaik2004/21JR1A05H7)  
+  A project repository for coursework.  
+  ⭐ 0 Stars | 🗂 0 Forks | 📦
+
+## GitHub Stats
+
+📊 **GitHub Stats:**  
+- Public Repositories: **6**  
+- Followers: **0**  
+- Following: **0**  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sameershaik2004&show_icons=true&count_private=true&theme=radical)
+
+## Recent Activity
+
+- **Updated** `README.md` in [sameershaik2004/sameershaik2004](https://github.com/sameershaik2004/sameershaik2004)  
+- **Created** repository [Dino-landing-page](https://github.com/sameershaik2004/Dino-landing-page)  
+- **Pushed** changes to [hackathon](https://github.com/sameershaik2004/hackathon)  
+- **Created** repository [personal-portfolio](https://github.com/sameershaik2004/personal-portfolio)  
+- **Created** repository [Training](https://github.com/sameershaik2004/Training)  
+
+## Connect with Me
+
+<div style="display: flex; gap: 10px; align-items: center;">
+  <a href="https://www.facebook.com/sameerhassanshaik" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/sameerhassanshaik" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+  <a href="https://www.instagram.com/mr._.shaik.___" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+  </a>
+  <a href="https://github.com/sameershaik2004" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo" />
+  </a>
 </div>
 
-<hr>
+## Certifications
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <div style="flex: 1;">
-    <h3> About Me</h3>
-    <ul>
-      <li> **Frontend Developer** specializing in creating responsive and user-friendly web interfaces.</li>
-      <li> Check out my projects on <a href="https://github.com/sameershaik2004">GitHub</a>.</li>
-      <li> Learn about my experiences in my <a href="https://docs.google.com/document/d/1xasGDH_rsYm8MtfrD2TCJi-4owXUStHjc3vKxrypPW4/edit?usp=sharing">Resume</a>.</li>
-      <li> Reach out to me at **sameerhassanshaik@gmail.com**.</li>
-      <li>⚡ **Fun Fact:** I can spend hours debugging code but often lose track of my coffee! ☕</li>
-    </ul>
-  </div>
+- [**Java Full Stack Development**](file:///C:/Users/samee/OneDrive/Desktop/backup/Certificates/Wipro%20TalentNext%20%20Java%20Full%20Stack%20Certification_1728555799902.pdf) - Issued by **Wipro TalentNXT**, November 2024  
+- [**Introduction to Python**](file:///C:/Users/samee/OneDrive/Desktop/backup/Certificates/introduction%20to%20python%20penyslivia.pdf) - Issued by **University of Pennsylvania**
 
-  <div style="flex: 1; text-align: center;">
-    <img src="https://gifdb.com/images/file/animated-programmer-guy-coding-790a0bs8e8thpisg.gif" alt="Animated Programmer" width="200" style="border-radius: 10px; border: 2px solid #0e75b6;" />
-  </div>
+## Coding in Action! 🎯
+
+<div align="left">
+  <img src="https://media.giphy.com/media/3o7bu7B4goBh7ybxJo/giphy.gif" alt="Coding Animation" width="300" />
 </div>
-
-<hr>
-
-<h3>️ Tech Stack</h3>
-
-<div>
-  <h4>Frontend Development</h4>
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40" />
-
-  <h4>Backend Development</h4>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40" />
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40" />
-
-  <h4>Programming Languages</h4>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-
-  <h4>Database Management</h4>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/
